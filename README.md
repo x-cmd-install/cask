@@ -12,29 +12,7 @@ Project management tool for Emacs
 x install cask
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/cask/cask>
-- **Homepage**: <http://cask.readthedocs.io>
-- **License**: GPL-3.0
-
-## Popularity
-
-- **Stars**: 1,324 · **Forks**: 148 · **Open issues**: 361 · **Contributors**: 58
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 169 · **Open PRs**: 3 · **Closed issues**: 348 · **Open issues**: 13 · **Commits**: 1204
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 1 | 1 |
-
-## Code size
+## Code insight
 
 Total: **6,353** lines of code across **43** files in the top 5 languages.
 
@@ -56,13 +34,46 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
+## Source
+
+- **Upstream**: <https://github.com/cask/cask>
+- **Homepage**: <http://cask.readthedocs.io>
+- **License**: GPL-3.0
+
+## Popularity
+
+- **Stars**: 1,324 · **Forks**: 148 · **Open issues**: 361 · **Contributors**: 58
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 169 · **Open PRs**: 3 · **Closed issues**: 348 · **Open issues**: 13 · **Commits**: 1204
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last720d | 2024-09-20 | 0 | 1 | 1 | 1 | 3 | 9 |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/cask). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.9.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for cask lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cask` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cask.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cask.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:31:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:39:10Z._
