@@ -14,15 +14,15 @@ x install cask
 
 ## Code insight
 
-Total: **6,353** lines of code across **43** files in the top 5 languages.
+Total: **6,349** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Elisp | 5,559 | 686 | 991 | 26 |
 | Gherkin | 352 | 3 | 59 | 12 |
 | Makefile | 227 | 0 | 56 | 3 |
-| Org | 89 | 0 | 24 | 1 |
 | Python | 87 | 16 | 25 | 1 |
+| Org | 85 | 0 | 22 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,326 · **Forks**: 148 · **Open issues**: 361 · **Contributors**: 58
+- **Stars**: 1,326 · **Forks**: 149 · **Open issues**: 362 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 169 · **Open PRs**: 3 · **Closed issues**: 348 · **Open issues**: 13 · **Commits**: 1204
+- **Releases**: 0 · **Merged PRs**: 169 · **Open PRs**: 4 · **Closed issues**: 348 · **Open issues**: 14 · **Commits**: 1205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-29 | 0 | 0 | 1 | 0 | 1 | 1 |
-| last720d | 2024-10-04 | 0 | 1 | 1 | 1 | 3 | 9 |
+| 30d | 2026-08-26 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last60d | 2026-07-27 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-06-27 | 0 | 0 | 2 | 0 | 1 | 1 |
+| last180d | 2026-03-29 | 0 | 0 | 2 | 0 | 1 | 1 |
+| 360d | 2025-09-30 | 0 | 0 | 2 | 0 | 2 | 2 |
+| last720d | 2024-10-05 | 0 | 1 | 2 | 1 | 4 | 10 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cask lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:23:00Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:28:30Z._
