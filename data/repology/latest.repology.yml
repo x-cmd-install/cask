@@ -7,7 +7,7 @@
   status: outdated
   summary: Project management tool for Emacs
   maintainers:
-    - fallback-mnt-aur@repology
+    - aspirogrammer@aur
   licenses:
     - GPL
 - repo: aur
